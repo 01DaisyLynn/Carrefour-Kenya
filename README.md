@@ -5,7 +5,7 @@
 
 # Main Objective #
 
-perform various unsupervised learning techniques and  provide recommendations based on your insights
+perform various unsupervised learning techniques (i.e Dimensionality reduction, feature selection, association analysis and anomaly detection) and  provide recommendations based on your insights
 
 # Setup #
 
@@ -40,7 +40,7 @@ library(mclust) - feature selection
 
 library(arules) - association
 
-library(nomalize)
+library(anomalize)
 
 # Tools Used #
 
